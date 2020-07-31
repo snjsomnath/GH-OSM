@@ -1,5 +1,5 @@
 # Readme
-
+![enter image description here](https://github.com/snjsomnath/GH-OSM/blob/master/img_01.png?raw=true)
 This script downloads an OSM file and saves it to drive from a centre point or a search term
 
 ## Input Varaiable
