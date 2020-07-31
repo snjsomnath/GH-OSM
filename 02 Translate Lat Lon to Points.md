@@ -42,10 +42,11 @@ This example is to demonstrate how decimal degree coordinates can be translated 
 > The Longitude distance per degree is along the x-axis remains constant around the circumference of the earth
 > The Latitude distance per degree however, varies. It is largest by the equator and shorter towards the pole since the Latitude lines are parallel to oneanother.
 ### Y Distance
-> (2*pi*R) Radian Distance = 360 degrees
-> Y Distance per degree = (pi*R)/180 ***(Where R is the radius of the earth in meters - 6371000m)***  
+> (2 * pi * R) Radian Distance = 360 degrees
+
+> Y Distance per degree = (pi * R) / 180 ***(Where R is the radius of the earth in meters - 6371000m)***  
 ### X Distance
-> X Distance per degree = cosine(Latitude)*Y Distance per degree
+> X Distance per degree = cosine(Latitude) * Y Distance per degree
 
     ydistperdegree = (math.pi*R)/180
     xdistperdegree = ((math.cos(midlat*(math.pi/180))*R)*(math.pi/180))
