@@ -1,5 +1,6 @@
 
 # OSM to Points
+![enter image description here](https://github.com/snjsomnath/GH-OSM/blob/master/img_01.png?raw=true)
 This example is to demonstrate how decimal degree coordinates can be translated to cartesian points
 
 ## Load Libraries
