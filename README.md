@@ -1,5 +1,5 @@
 ### The GH file in this project has 2 GH python components inside.
-![enter image description here](https://github.com/snjsomnath/GH-OSM/blob/master/img_01.png?raw=true)
+
  1. The first one allows the user to search for a building coordinate by
     searching for an address 
     
